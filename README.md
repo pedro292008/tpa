@@ -1,4 +1,4 @@
-## Técnicas de Programação de Algoritmo - ETEC 2024
+## Técnicas de Programação de Algoritmo - ETEC 2024 :open_book:	:pencil2:	
 
 Estou aprendendo técnicas de programação com algoritmos utilizando portugol como uma linguagem de programação
 
