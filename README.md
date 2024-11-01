@@ -10,3 +10,5 @@ Um algoritmo é uma sequência de passos lógicos e bem definidos que descrevem 
 
 ![Captura de tela 2024-11-01 093726](https://github.com/user-attachments/assets/c10efd16-5bd5-4aaa-825f-3a10db4835a7)
 
+## O que são vetores?
+
