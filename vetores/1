@@ -20,4 +20,25 @@ programa {
   }
 }
 
+--------------------------------------------------------------------------------------
+Mostrar numeros maiores que 10
+programa {
+  funcao inicio() {
+    inteiro numeros[15]
+    inteiro i
+
+    para(i=0; i<15; i++){
+      escreva("Digite o ", i +1 , "º número: ")
+      leia(numeros[i])
+    }
+
+    escreva("\n Números maiores ou iguais a 10: \n")
+    para(i=0; i<15; i++){
+      se(numeros[i] >= 10){
+        escreva(numeros[i], "\n")
+      }
+    }
+
+  }
+}
 
