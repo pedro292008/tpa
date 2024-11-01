@@ -12,3 +12,4 @@ Um algoritmo é uma sequência de passos lógicos e bem definidos que descrevem 
 
 ## O que são vetores?
 
+Um vetor é uma variável composta unidimensional formada por uma sequência de variáveis, todas do mesmo tipo, com o mesmo nome e alocadas sequencialmente na memória. Uma vez que as variáveis têm o mesmo nome, o que as distingue é um índice, que referencia sua localização dentro da estrutura.
