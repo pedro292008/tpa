@@ -1,1 +1,21 @@
-ve
+programa {
+  funcao inicio() {
+    cadeia nome[5]
+    //inteiro i=0
+
+
+  para(inteiro i=0; i<=4; i++){
+    escreva("Digite " + (i+1) + " nome: ")
+    leia(nome[i])
+  }    
+  para(inteiro i=0; i<=4; i++){
+    escreva(nome [i] + " | ")
+  }
+
+
+  escreva("\n\n")
+  escreva(nome[0])
+  }
+}
+
+
