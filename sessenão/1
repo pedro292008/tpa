@@ -29,6 +29,69 @@ programa {
   }
 }
 
+--------------------------------------------------------------------------
+
+programa {
+  funcao inicio() {
+    real numero1
 
 
+    escreva("Digite o numero desejado")
+    leia(numero1)
 
+
+   se (numero1 % 2 == 0 )
+      escreva("O número ", numero1, " é PAR.")
+   senao
+      escreva("O número ", numero1, " é ÍMPAR.")
+ 
+  }
+}
+
+--------------------------------------------------------------------------
+
+programa {
+  funcao inicio() {
+    inteiro n1, n2, soma, resultado
+
+
+     escreva("Digite o primeiro número: ")
+   leia(n1)
+   escreva("Digite o segundo número  soma = n1 + n2
+
+
+    se (soma > 20) {
+: ")
+   leia(n2)
+
+
+         resultado = soma + 8}
+   senao{
+      resultado = soma - 5
+
+
+   
+    }
+  }
+}
+
+--------------------------------------------------------------------------
+programa {
+  funcao inicio() {
+    real salario, valor, limit
+    escreva(" Digite o seu salario ")
+    leia(salario)
+
+
+    escreva("valor da prestação ")
+    leia(valor)
+    limit = salario *0.30
+
+
+    se (valor <= limit)
+    escreva("o emprestimo pode ser realizado")
+    senao
+    escreva ("o Emprestimo não pode ser realizado")
+  }
+}
+--------------------------------------------------------------------------
