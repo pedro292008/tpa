@@ -1,1 +1,34 @@
+programa {
+  funcao inicio() {
+    real nota1, nota2, media
+
+
+    escreva("digite a primeira nota do aluno ")
+    leia(nota1)
+    escreva("Digite a segunda nota do aluno ")
+    leia(nota2)
+
+
+    media = (nota1 + nota2) / 2
+
+
+    se(media > 9){
+      escreva("A media do aluno foi ", media )
+      escreva("\n Aprovado - MB")
+    }senao se(media>=8){
+      escreva("A media do aluno foi: ", media)
+      escreva("\n Aprovado - B")
+
+
+    }senao se (media >= 7){
+      escreva("a media do aluno foi: ", media)
+      escreva("\n Aprovado - R")
+    }senao{
+
+    }
+  }
+}
+
+
+
 
