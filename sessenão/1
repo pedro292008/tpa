@@ -1,3 +1,4 @@
+Media e o resultado das notas de um aluno
 programa {
   funcao inicio() {
     real nota1, nota2, media
